@@ -1,5 +1,7 @@
 # Advanced Email: Carousel and Thumbnails
-## Email Code | Progressive Enhancements
+#### Email Code | Progressive Enhancements
+
+-[View Live Code] (https://ninjulia.github.io/email_carousel) 
 
 ### Introduction
 
@@ -27,4 +29,4 @@ While Outlook.com (Office365.com, Hotmail.com) passes the webkit support check, 
 
 ### Test Results
 
--[Email on Acid Test:](https://app.emailonacid.com/app/precheck/display/summary/z0xaudyYs8)
+-[Email on Acid Test](https://app.emailonacid.com/app/precheck/display/summary/z0xaudyYs8)
