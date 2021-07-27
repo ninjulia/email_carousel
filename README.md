@@ -1,7 +1,7 @@
 # Advanced Email: Carousel and Thumbnails
 #### Email Code | Progressive Enhancements
 
--[View Live Code] (https://ninjulia.github.io/email_carousel) 
+-[View Live Code](https://ninjulia.github.io/email_carousel) 
 
 ### Introduction
 
